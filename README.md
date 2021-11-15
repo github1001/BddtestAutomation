@@ -1,4 +1,4 @@
-# BDD Automation Interview Assignment ![Java CI with Maven](https://github.com/pos-my/java-bdd-interview/workflows/Java%20CI%20with%20Maven/badge.svg)
+# BDD Automation Interview Assignment (Solution) ![Java CI with Maven]
 BDD automated application that will be used by our candidates.
 
 ## Pre-requisite
