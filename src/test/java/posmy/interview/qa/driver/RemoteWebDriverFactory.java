@@ -8,9 +8,6 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import static io.github.bonigarcia.wdm.WebDriverManager.chromedriver;
 
 
-/**
- * @author Rashidi Zin
- */
 public class RemoteWebDriverFactory {
 
 	private RemoteWebDriverFactory() {
