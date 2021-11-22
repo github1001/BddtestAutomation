@@ -18,8 +18,8 @@ The following dependencies are included inside [pom.xml]:
     - demonstrates understanding of Object Oriented Programming concepts
   
 ### scenario(s) being unit tested is
-  - Search "covid 19 in Malaysia" on Google and will see search results page
-  - Top stories section is available
-  - Common questions section is available
-  - Click on MOH website in the search result will lead to MOH's website
+  - Search for "covid 19 in Malaysia" on your favorite search engine and you'd find the results page
+  - You may see the top stories section
+  - The common questions section
+  - Click on MOH website in the search result leading to MOH's website
 
